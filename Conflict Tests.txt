@@ -1,2 +1,3 @@
-Основен текст
-Текст от User1Текст от User2
+Main Text
+Test User 1
+Test User 2
