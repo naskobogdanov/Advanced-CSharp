@@ -1,0 +1,5 @@
+c:\users\wave\documents\visual studio 2013\Projects\02. Homework - Methods\06. NumberCalculations\bin\Debug\_06.NumberCalculations.exe
+c:\users\wave\documents\visual studio 2013\Projects\02. Homework - Methods\06. NumberCalculations\bin\Debug\_06.NumberCalculations.pdb
+c:\users\wave\documents\visual studio 2013\Projects\02. Homework - Methods\06. NumberCalculations\obj\Debug\06. NumberCalculations.csprojResolveAssemblyReference.cache
+c:\users\wave\documents\visual studio 2013\Projects\02. Homework - Methods\06. NumberCalculations\obj\Debug\_06.NumberCalculations.exe
+c:\users\wave\documents\visual studio 2013\Projects\02. Homework - Methods\06. NumberCalculations\obj\Debug\_06.NumberCalculations.pdb

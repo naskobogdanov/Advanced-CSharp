@@ -1,0 +1,4 @@
+c:\users\wave\documents\visual studio 2013\Projects\02. Homework - Methods\02. LastDigitOfNumber\bin\Debug\_02.LastDigitOfNumber.exe
+c:\users\wave\documents\visual studio 2013\Projects\02. Homework - Methods\02. LastDigitOfNumber\bin\Debug\_02.LastDigitOfNumber.pdb
+c:\users\wave\documents\visual studio 2013\Projects\02. Homework - Methods\02. LastDigitOfNumber\obj\Debug\_02.LastDigitOfNumber.exe
+c:\users\wave\documents\visual studio 2013\Projects\02. Homework - Methods\02. LastDigitOfNumber\obj\Debug\_02.LastDigitOfNumber.pdb

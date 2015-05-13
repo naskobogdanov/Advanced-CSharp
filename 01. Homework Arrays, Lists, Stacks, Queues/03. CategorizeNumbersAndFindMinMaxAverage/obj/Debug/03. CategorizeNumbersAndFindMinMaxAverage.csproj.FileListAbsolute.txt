@@ -1,0 +1,4 @@
+C:\Users\Wave\documents\visual studio 2013\Projects\01. Homework Arrays, Lists, Stacks, Queues\03. CategorizeNumbersAndFindMinMaxAverage\bin\Debug\_03.CategorizeNumbersAndFindMinMaxAverage.exe
+C:\Users\Wave\documents\visual studio 2013\Projects\01. Homework Arrays, Lists, Stacks, Queues\03. CategorizeNumbersAndFindMinMaxAverage\bin\Debug\_03.CategorizeNumbersAndFindMinMaxAverage.pdb
+C:\Users\Wave\documents\visual studio 2013\Projects\01. Homework Arrays, Lists, Stacks, Queues\03. CategorizeNumbersAndFindMinMaxAverage\obj\Debug\_03.CategorizeNumbersAndFindMinMaxAverage.exe
+C:\Users\Wave\documents\visual studio 2013\Projects\01. Homework Arrays, Lists, Stacks, Queues\03. CategorizeNumbersAndFindMinMaxAverage\obj\Debug\_03.CategorizeNumbersAndFindMinMaxAverage.pdb
