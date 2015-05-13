@@ -1,0 +1,5 @@
+c:\users\wave\documents\visual studio 2013\Projects\02. Homework - Methods\04. FirstLargerThanNeighbours\obj\Debug\04. FirstLargerThanNeighbours.csprojResolveAssemblyReference.cache
+c:\users\wave\documents\visual studio 2013\Projects\02. Homework - Methods\04. FirstLargerThanNeighbours\bin\Debug\_04.FirstLargerThanNeighbours.exe
+c:\users\wave\documents\visual studio 2013\Projects\02. Homework - Methods\04. FirstLargerThanNeighbours\bin\Debug\_04.FirstLargerThanNeighbours.pdb
+c:\users\wave\documents\visual studio 2013\Projects\02. Homework - Methods\04. FirstLargerThanNeighbours\obj\Debug\_04.FirstLargerThanNeighbours.exe
+c:\users\wave\documents\visual studio 2013\Projects\02. Homework - Methods\04. FirstLargerThanNeighbours\obj\Debug\_04.FirstLargerThanNeighbours.pdb

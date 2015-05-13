@@ -1,0 +1,4 @@
+c:\users\wave\documents\visual studio 2013\Projects\02. MultidimensionalArraysSetsDictionaries\07. Phonebook\bin\Debug\_07.Phonebook.exe
+c:\users\wave\documents\visual studio 2013\Projects\02. MultidimensionalArraysSetsDictionaries\07. Phonebook\bin\Debug\_07.Phonebook.pdb
+c:\users\wave\documents\visual studio 2013\Projects\02. MultidimensionalArraysSetsDictionaries\07. Phonebook\obj\Debug\_07.Phonebook.exe
+c:\users\wave\documents\visual studio 2013\Projects\02. MultidimensionalArraysSetsDictionaries\07. Phonebook\obj\Debug\_07.Phonebook.pdb
