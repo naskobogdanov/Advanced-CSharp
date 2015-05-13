@@ -1,0 +1,6 @@
+C:\Users\Wave\documents\visual studio 2013\Projects\01. Homework Arrays, Lists, Stacks, Queues\Test\bin\Debug\Test.exe.config
+C:\Users\Wave\documents\visual studio 2013\Projects\01. Homework Arrays, Lists, Stacks, Queues\Test\bin\Debug\Test.exe
+C:\Users\Wave\documents\visual studio 2013\Projects\01. Homework Arrays, Lists, Stacks, Queues\Test\bin\Debug\Test.pdb
+C:\Users\Wave\documents\visual studio 2013\Projects\01. Homework Arrays, Lists, Stacks, Queues\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Wave\documents\visual studio 2013\Projects\01. Homework Arrays, Lists, Stacks, Queues\Test\obj\Debug\Test.exe
+C:\Users\Wave\documents\visual studio 2013\Projects\01. Homework Arrays, Lists, Stacks, Queues\Test\obj\Debug\Test.pdb
