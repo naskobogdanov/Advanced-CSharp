@@ -1,5 +1,0 @@
-c:\users\wave\documents\visual studio 2013\Projects\02. Homework - Methods\05. ReverseNumber\obj\Debug\05. ReverseNumber.csprojResolveAssemblyReference.cache
-c:\users\wave\documents\visual studio 2013\Projects\02. Homework - Methods\05. ReverseNumber\bin\Debug\_05.ReverseNumber.exe
-c:\users\wave\documents\visual studio 2013\Projects\02. Homework - Methods\05. ReverseNumber\bin\Debug\_05.ReverseNumber.pdb
-c:\users\wave\documents\visual studio 2013\Projects\02. Homework - Methods\05. ReverseNumber\obj\Debug\_05.ReverseNumber.exe
-c:\users\wave\documents\visual studio 2013\Projects\02. Homework - Methods\05. ReverseNumber\obj\Debug\_05.ReverseNumber.pdb
