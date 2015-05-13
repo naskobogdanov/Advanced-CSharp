@@ -2,7 +2,7 @@
 
 class BiggerNumber
 {
-    //This program will show is which of two numbers is grater!
+    //This program will show which of thr two numbers is grater!
     static int GetMax(int x, int y)
     {        
         int maxNum = x > y ? x : y;
