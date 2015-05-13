@@ -3,8 +3,8 @@
 class BiggerNumber
 {
     //This program will show which of thr two numbers is grater!
-    //Това е тест от втория юзър май
-    static int GetMax(int x, int y)
+    //Правим тестове с конфликти 
+    //Това е тест от втория юзър    static int GetMax(int x, int y)
     {        
         int maxNum = x > y ? x : y;
         return maxNum;

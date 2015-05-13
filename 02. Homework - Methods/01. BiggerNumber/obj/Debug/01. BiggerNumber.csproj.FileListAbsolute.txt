@@ -5,3 +5,5 @@ c:\users\wave\documents\visual studio 2013\Projects\02. Homework - Methods\01. B
 c:\users\wave\documents\visual studio 2013\Projects\02. Homework - Methods\01. BiggerNumber\obj\Debug\_01.BiggerNumber.pdb
 D:\SoftUni\Fundamental Level\Advanced CSharp\Advanced-CSharp\02. Homework - Methods\01. BiggerNumber\obj\Debug\_01.BiggerNumber.exe
 D:\SoftUni\Fundamental Level\Advanced CSharp\Advanced-CSharp\02. Homework - Methods\01. BiggerNumber\obj\Debug\_01.BiggerNumber.pdb
+D:\SoftUni\Fundamental Level\Advanced CSharp\Advanced CSharp secont test folder\Advanced-CSharp\02. Homework - Methods\01. BiggerNumber\obj\Debug\_01.BiggerNumber.exe
+D:\SoftUni\Fundamental Level\Advanced CSharp\Advanced CSharp secont test folder\Advanced-CSharp\02. Homework - Methods\01. BiggerNumber\obj\Debug\_01.BiggerNumber.pdb
