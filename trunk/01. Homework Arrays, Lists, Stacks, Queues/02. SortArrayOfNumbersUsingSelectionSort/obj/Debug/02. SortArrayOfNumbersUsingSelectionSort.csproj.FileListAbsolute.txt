@@ -1,4 +1,0 @@
-c:\users\wave\documents\visual studio 2013\Projects\01. Homework Arrays, Lists, Stacks, Queues\02. SortArrayOfNumbersUsingSelectionSort\bin\Debug\_02.SortArrayOfNumbersUsingSelectionSort.exe
-c:\users\wave\documents\visual studio 2013\Projects\01. Homework Arrays, Lists, Stacks, Queues\02. SortArrayOfNumbersUsingSelectionSort\bin\Debug\_02.SortArrayOfNumbersUsingSelectionSort.pdb
-c:\users\wave\documents\visual studio 2013\Projects\01. Homework Arrays, Lists, Stacks, Queues\02. SortArrayOfNumbersUsingSelectionSort\obj\Debug\_02.SortArrayOfNumbersUsingSelectionSort.exe
-c:\users\wave\documents\visual studio 2013\Projects\01. Homework Arrays, Lists, Stacks, Queues\02. SortArrayOfNumbersUsingSelectionSort\obj\Debug\_02.SortArrayOfNumbersUsingSelectionSort.pdb

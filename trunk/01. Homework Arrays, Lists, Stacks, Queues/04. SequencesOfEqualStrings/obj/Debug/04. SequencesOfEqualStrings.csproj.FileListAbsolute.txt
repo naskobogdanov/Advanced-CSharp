@@ -1,5 +1,0 @@
-C:\Users\Wave\Documents\Visual Studio 2013\Projects\01. Homework Arrays, Lists, Stacks, Queues\04. SequencesOfEqualStrings\bin\Debug\_04.SequencesOfEqualStrings.exe
-C:\Users\Wave\Documents\Visual Studio 2013\Projects\01. Homework Arrays, Lists, Stacks, Queues\04. SequencesOfEqualStrings\bin\Debug\_04.SequencesOfEqualStrings.pdb
-C:\Users\Wave\Documents\Visual Studio 2013\Projects\01. Homework Arrays, Lists, Stacks, Queues\04. SequencesOfEqualStrings\obj\Debug\04. SequencesOfEqualStrings.csprojResolveAssemblyReference.cache
-C:\Users\Wave\Documents\Visual Studio 2013\Projects\01. Homework Arrays, Lists, Stacks, Queues\04. SequencesOfEqualStrings\obj\Debug\_04.SequencesOfEqualStrings.exe
-C:\Users\Wave\Documents\Visual Studio 2013\Projects\01. Homework Arrays, Lists, Stacks, Queues\04. SequencesOfEqualStrings\obj\Debug\_04.SequencesOfEqualStrings.pdb

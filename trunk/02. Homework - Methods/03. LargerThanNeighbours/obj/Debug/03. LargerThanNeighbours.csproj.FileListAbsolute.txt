@@ -1,4 +1,0 @@
-c:\users\wave\documents\visual studio 2013\Projects\02. Homework - Methods\03. LargerThanNeighbours\bin\Debug\_03.LargerThanNeighbours.exe
-c:\users\wave\documents\visual studio 2013\Projects\02. Homework - Methods\03. LargerThanNeighbours\bin\Debug\_03.LargerThanNeighbours.pdb
-c:\users\wave\documents\visual studio 2013\Projects\02. Homework - Methods\03. LargerThanNeighbours\obj\Debug\_03.LargerThanNeighbours.exe
-c:\users\wave\documents\visual studio 2013\Projects\02. Homework - Methods\03. LargerThanNeighbours\obj\Debug\_03.LargerThanNeighbours.pdb
