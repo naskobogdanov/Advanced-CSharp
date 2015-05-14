@@ -11,5 +11,6 @@ class ReverseString
         string reverserStr = new string(ch);
         Console.WriteLine();
         Console.WriteLine("Your reversed string is: {0}", reverserStr);
+        Console.WriteLine();
     }
 }
