@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. SeriesOfLetters", "01. SeriesOfLetters\01. SeriesOfLetters.csproj", "{99F4D639-C043-48B5-800C-C38CB86BE2F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. ReplaceATag", "02. ReplaceATag\02. ReplaceATag.csproj", "{CAF1EC26-F5A5-4596-814F-B9548A091069}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. ExtractEmails", "03. ExtractEmails\03. ExtractEmails.csproj", "{92623055-EE9D-4A41-8E99-D3A9104C71CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. SentenceExtractor", "04. SentenceExtractor\04. SentenceExtractor.csproj", "{68427186-6FFD-4647-B603-4E40BFE137C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99F4D639-C043-48B5-800C-C38CB86BE2F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F4D639-C043-48B5-800C-C38CB86BE2F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F4D639-C043-48B5-800C-C38CB86BE2F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F4D639-C043-48B5-800C-C38CB86BE2F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAF1EC26-F5A5-4596-814F-B9548A091069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF1EC26-F5A5-4596-814F-B9548A091069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF1EC26-F5A5-4596-814F-B9548A091069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF1EC26-F5A5-4596-814F-B9548A091069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92623055-EE9D-4A41-8E99-D3A9104C71CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92623055-EE9D-4A41-8E99-D3A9104C71CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92623055-EE9D-4A41-8E99-D3A9104C71CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92623055-EE9D-4A41-8E99-D3A9104C71CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68427186-6FFD-4647-B603-4E40BFE137C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68427186-6FFD-4647-B603-4E40BFE137C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68427186-6FFD-4647-B603-4E40BFE137C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68427186-6FFD-4647-B603-4E40BFE137C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
